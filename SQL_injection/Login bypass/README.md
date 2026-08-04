@@ -1,4 +1,4 @@
-Sure. For a **mid-level, short and professional GitHub README**, use this version:
+
 
 # SQL Injection – Login Bypass
 
