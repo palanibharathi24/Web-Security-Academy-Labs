@@ -377,5 +377,6 @@ Recommended controls:
 <img width="1918" height="737" alt="image" src="https://github.com/user-attachments/assets/75444a78-21c2-49f9-9170-09757a5a8903" />
 <img width="1918" height="737" alt="image" src="https://github.com/user-attachments/assets/49313635-1648-4007-b019-0b8621f6ce7d" />
 <img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/2cc40b29-d8c2-45d8-886a-15c86f10f4fc" />
+<img width="1886" height="893" alt="image" src="https://github.com/user-attachments/assets/aa2c2dff-16f5-47a3-b629-7a54ea559cc1" />
 
 
