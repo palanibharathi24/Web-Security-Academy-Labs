@@ -46,7 +46,7 @@ The JavaScript code contained the path to the administrator panel.
 Example:
 
 ```javascript
-var adminPanel = "/<unpredictable-admin-path>";
+var adminPanel = "/<unpredictable-admin-b88pu8>";
 ```
 
 The actual path was unique to the lab.
@@ -56,7 +56,7 @@ The actual path was unique to the lab.
 Copied the admin panel path discovered in the response and accessed it directly through the browser.
 
 ```text
-https://YOUR-LAB-ID.web-security-academy.net/<admin-path>
+https://YOUR-LAB-ID.web-security-academy.net/admin-b88pu8>
 ```
 
 The admin panel was accessible without administrator authorization.
